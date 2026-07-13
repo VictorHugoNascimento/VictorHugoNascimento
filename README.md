@@ -17,7 +17,9 @@
 |Potência Tech iFood - Programação do Zero | [Certificado](https://hermes.dio.me/certificates/66A723CE.pdf) |
 | Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/0ZFG9OPH.pdf) |
 
+---
 
+[![Victor Hugo Nascimento GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorHugoNascimento)](https://github.com/stats-organization/github-stats-extended)
 
 
 
