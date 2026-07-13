@@ -7,7 +7,7 @@
 ---
 
 ### Minhas Tecnologias
-<p allign="center">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
@@ -16,7 +16,7 @@
 
 ---
 ### Certificados
-| Cursos | |
+| Curso | |
 | --- | --- |
 |Potência Tech iFood - Programação do Zero | [Certificado](https://hermes.dio.me/certificates/66A723CE.pdf) |
 | Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/0ZFG9OPH.pdf) |
