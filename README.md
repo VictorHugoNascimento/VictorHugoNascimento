@@ -2,17 +2,16 @@
 
 💻 Olá, me chamo Victor Nascimento <br>
 🎓 Estou iniciando meus estudos na área da programação e meu foco é me tornar um desenvolvedor back-end utilizando a linguagem Java <br>
-![Acesse meu LinkedIn](
-            https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg
-          ) <br>
+📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/victor-nascimento-552aa5192/)
 
+---
 
+### Minhas Tecnologias
 
-
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
+          
 
 
 
