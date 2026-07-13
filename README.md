@@ -3,7 +3,7 @@
 💻 Olá, me chamo Victor Nascimento <br>
 🎓 Estou iniciando meus estudos na área da programação e meu foco é me tornar um desenvolvedor back-end utilizando a linguagem Java <br>
 ![Acesse meu LinkedIn](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+            https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg
           ) <br>
 
 
