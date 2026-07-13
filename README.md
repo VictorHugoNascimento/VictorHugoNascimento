@@ -25,8 +25,6 @@
 
 [![Victor Hugo Nascimento GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorHugoNascimento)](https://github.com/stats-organization/github-stats-extended)
 
-<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoNascimento&layout=compact&langs_count=7&theme=dracula">
-
 
 
 
