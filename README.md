@@ -18,8 +18,9 @@
 ### Certificados
 | Curso | |
 | --- | --- |
-|Potência Tech iFood - Programação do Zero | [Certificado](https://hermes.dio.me/certificates/66A723CE.pdf) |
-| Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/0ZFG9OPH.pdf) |
+| Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/WOXODGQN.pdf) |
+| Potência Tech iFood - Programação do Zero | [Certificado](https://hermes.dio.me/certificates/66A723CE.pdf) |
+| Princípios do Git e Github | [Certificado](https://hermes.dio.me/certificates/0ZFG9OPH.pdf) |
 
 ---
 
