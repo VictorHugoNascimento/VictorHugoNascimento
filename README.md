@@ -9,7 +9,7 @@
 ### Minhas Tecnologias
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" style="filter: invert(100%);" alt="GitHub">
+    <img src="https://skillicons.dev" width="60px" alt="GitHub" />
 </p>
 
 ---
