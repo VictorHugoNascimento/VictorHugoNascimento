@@ -17,7 +17,7 @@
 | Curso | |
 | --- | --- |
 | Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/WOXODGQN.pdf) |
-| Formação GitHub Certification | [Certificado]([https://hermes.dio.me/certificates/0ZFG9OPH.pdf](https://hermes.dio.me/certificates/LYA65FKH.pdf)) |
+| Formação GitHub Certification | [Certificado](https://hermes.dio.me/certificates/LYA65FKH.pdf) |
 
 ---
 
