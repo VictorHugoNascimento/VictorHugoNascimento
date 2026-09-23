@@ -45,7 +45,11 @@ Aqui você encontrará meus projetos de estudos, exercícios de lógica e minha 
 
 ---
 
-[![Victor Hugo Nascimento GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorHugoNascimento)](https://github.com/stats-organization/github-stats-extended)
+![Estatísticas do GitHub](https://vercel.app)
+
+<br>
+
+![Linguagens mais usadas](https://vercel.app)
 
 
 
