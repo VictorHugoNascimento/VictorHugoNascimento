@@ -45,11 +45,6 @@ Aqui você encontrará meus projetos de estudos, exercícios de lógica e minha 
 
 ---
 
-![Estatísticas do GitHub](https://vercel.app)
-
-<br>
-
-![Linguagens mais usadas](https://vercel.app)
 
 
 
