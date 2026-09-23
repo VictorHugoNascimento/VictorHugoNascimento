@@ -1,10 +1,14 @@
 # Olá, eu sou o Victor Nascimento! 👋
 
+<br>
+
 > Graduando em Análise e Desenvolvimento de Sistemas (Anhanguera) • Desenvolvedor Back-End Java em formação pela DIO.me.
+
+<br>
 
 Aqui você encontrará meus projetos de estudos, exercícios de lógica e minha evolução diária no ecossistema de desenvolvimento de software.
 
-📬 **Vamos nos conectar?**
+📬 **Vamos nos conectar?** <br>
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/victor-nascimento-552aa5192/)
 
 ---
@@ -12,13 +16,23 @@ Aqui você encontrará meus projetos de estudos, exercícios de lógica e minha 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### ☕ Back-End
-<img src="https://jsdelivr.net" height="40" alt="java logo" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px"/>
+</p>
 
 ### 🌐 Front-End & Lógica
-<img src="https://jsdelivr.net" height="40" alt="javascript logo" /> <img src="https://jsdelivr.net" height="40" alt="html5 logo" /> <img src="https://jsdelivr.net" height="40" alt="css3 logo" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
+</p>
+
 
 ### 💻 Ferramentas & Sistema
-<img src="https://jsdelivr.net" height="40" alt="git logo" /> <img src="https://jsdelivr.net" height="40" alt="linux logo" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="60px"/>
+</p>
 
 ---
 ### Certificados
