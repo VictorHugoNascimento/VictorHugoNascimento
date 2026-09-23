@@ -8,6 +8,8 @@
 
 Aqui você encontrará meus projetos de estudos, exercícios de lógica e minha evolução diária no ecossistema de desenvolvimento de software.
 
+<br>
+
 📬 **Vamos nos conectar?** <br>
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/victor-nascimento-552aa5192/)
 
